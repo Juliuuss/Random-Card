@@ -1,1 +1,14 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+#Numero {
+  font-size: 220px;
+}
+
+body {
+  background-color: green;
+}
+
+#carta {
+  width: 400px;
+  background-color: white;
+  border-radius: 25px;
+}
